@@ -1,12 +1,7 @@
 {
-  "name": "Banditebi",
-  "description": "Connect with TON",
-  "url": "https://banditebi.github.io/tonconnect-manifest", 
-  "icons": [
-    {
-      "src": "https://banditebi.github.io/tonconnect-manifest/icon.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    }
-  ]
+  "url": "https://banditebi.github.io/tonconnect-manifest",                       
+  "name": "Banditebi",                     
+  "iconUrl": "https://banditebi.github.io/tonconnect-manifest/icon.png",              
+  "termsOfUseUrl": "<terms-of-use-url>",     
+  "privacyPolicyUrl": "<privacy-policy-url>" 
 }
