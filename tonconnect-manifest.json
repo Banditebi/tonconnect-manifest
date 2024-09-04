@@ -1,10 +1,10 @@
 {
     "name": "TON Connect Integration",
     "description": "Connect with TON",
-    "url": "https://github.com/Banditebi/tonconnect-manifest.git",
+    "url": "https://incomparable-kelpie-c391cf.netlify.app",
     "icons": [
         {
-            "src": "https://github.com/Banditebi/tonconnect-manifest.git/icon.png",
+            "src": "https://incomparable-kelpie-c391cf.netlify.app/icon.png",
             "sizes": "192x192",
             "type": "image/png"
         }
