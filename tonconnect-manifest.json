@@ -1,7 +1,7 @@
 {
     "name": "TON Connect Integration",
     "description": "Connect with TON",
-    "url": "https://banditebi.github.io/tonconnect-manifest/tonconnect-manifest.json",
+    "url": "https://banditebi.github.io/tonconnect-manifest",
     "icons": [
         {
             "src": "https://banditebi.github.io/tonconnect-manifest/icon.png",
